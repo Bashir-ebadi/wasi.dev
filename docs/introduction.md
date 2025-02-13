@@ -25,5 +25,5 @@ There are many different runtimes that support WASI including [Wasmtime](https:/
 WASI can be implemented by both core Wasm modules and applications built according to the **Component Model**, a specification for Wasm applications that are interoperable and composable. You can learn more about components in the Bytecode Alliance's **[WebAssembly Component Model](https://component-model.bytecodealliance.org/)** documentation. 
 
 [Continue reading](./interfaces.md) to learn more about WASI interfaces, including available APIs and how they are defined. 
-
+Developed By X-B
 
